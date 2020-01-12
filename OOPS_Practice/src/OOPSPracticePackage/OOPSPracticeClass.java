@@ -17,6 +17,6 @@ public class OOPSPracticeClass {
 		
 		AdditionPractice additionPractice=new AdditionPractice();
 		long numbersList[]= {7,2,6,2};
-		additionPractice.addTarget(numbersList,7);
+		additionPractice.addTarget(numbersList,8);
 	}
 }
